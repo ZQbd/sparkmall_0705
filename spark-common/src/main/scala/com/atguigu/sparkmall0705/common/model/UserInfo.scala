@@ -1,4 +1,4 @@
-package com.atguigu.sparkmall0705.model
+package com.atguigu.sparkmall0705.common.model
 
 /**
   * 用户信息表
